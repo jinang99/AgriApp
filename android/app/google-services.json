@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "463140798639",
+    "firebase_url": "https://popiot.firebaseio.com",
+    "project_id": "popiot",
+    "storage_bucket": "popiot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463140798639:android:52b0668a14c9a995",
+        "android_client_info": {
+          "package_name": "com.example.pop_iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463140798639-71ffira8a7ovl8525dl5b2337sf3au0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI8svHqKRwdJTmWhMsK08xRsFEnbI6aS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463140798639-71ffira8a7ovl8525dl5b2337sf3au0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463140798639:android:bd9d0786081888e2",
+        "android_client_info": {
+          "package_name": "com.example.textts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463140798639-71ffira8a7ovl8525dl5b2337sf3au0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI8svHqKRwdJTmWhMsK08xRsFEnbI6aS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463140798639-71ffira8a7ovl8525dl5b2337sf3au0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
