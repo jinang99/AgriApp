@@ -10,7 +10,7 @@ import 'package:location/location.dart' as LocationManager;
 import 'place_detail.dart';
 import 'package:firebase_database/firebase_database.dart';
 
-const kGoogleApiKey = "AIzaSyCbdgLq_pjF9jgNxFS4umaVen9UFBLJoI4";
+const kGoogleApiKey = "your_api_key";
 GoogleMapsPlaces _places = GoogleMapsPlaces(apiKey: kGoogleApiKey);
 
 
